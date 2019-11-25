@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lorem Ipsum"
+title: "video"
 tags: video
 ---
 
